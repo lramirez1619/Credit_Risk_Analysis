@@ -31,7 +31,6 @@ DConfusion matrix has been generated<end>
 ![image](https://user-images.githubusercontent.com/115942978/227731513-d8732c3a-da10-4ef1-9a0f-71254a969557.png)<end>
   
 Imbalanced classification report has been generated<end> 
-  
 ![image](https://user-images.githubusercontent.com/115942978/227731521-e1521bd1-a12e-40ec-87ac-0784449327bc.png)<end>
 
 **Cluster Centroids**
@@ -90,3 +89,6 @@ Imbalanced classification report has been generated
   
 ![image](https://user-images.githubusercontent.com/115942978/227733788-6d943a8c-6d29-46bc-8f76-26c12f43c188.png)
 
+**Summary: **
+  
+Overall, the EAST ensemble classifier model is most effective when used to combine the predictions of various base classifiers in order to increase the precision, resilience, and reliability of the classification system.
