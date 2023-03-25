@@ -89,6 +89,6 @@ Imbalanced classification report has been generated
   
 ![image](https://user-images.githubusercontent.com/115942978/227733788-6d943a8c-6d29-46bc-8f76-26c12f43c188.png)
 
-**Summary: **
+**Summary:**
   
 Overall, the EAST ensemble classifier model is most effective when used to combine the predictions of various base classifiers in order to increase the precision, resilience, and reliability of the classification system.
